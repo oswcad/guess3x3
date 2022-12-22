@@ -8,6 +8,7 @@ This app provides:
 The game is quite simople with a grid this ise. Increasing the grid size, it would be much harder to win. To with with larger grids, it is best to follow a strategy. A strategy to win for larger grids is explained here: https://youtu.be/iSNsgj1OCLA
 
 
+This is deployed in: https://oswcad-guess3x3-guess3x3-306k7i.streamlit.app
 
 
 
