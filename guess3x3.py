@@ -19,7 +19,7 @@ footer:after{
 </style>
 """
 
-st.title("Simple guessing name")
+st.title("Simple guessing game")
 st.markdown(hide_menu, unsafe_allow_html=True)
 
 N = 9
